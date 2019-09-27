@@ -1,4 +1,4 @@
-# Finding-doners-Supervised-Learning
+# Finding-Doners-Supervised-Learning
 This is the first project of the Udacity Data Scientist Nanodegree. I completed this project in April 2019. 
 
 Udacity provided instruction for the project as well as a the visuals.py file to assist in visualization.
