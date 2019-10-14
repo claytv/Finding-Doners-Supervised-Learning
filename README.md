@@ -3,7 +3,7 @@ This is the first project of the Udacity Data Scientist Nanodegree. I completed 
 
 The analysis can be found in the notebook 'finding_donors.ipynb'.
 
-This is a link to the [HTML version of the notebook](https://htmlpreview.github.io/https://github.com/claytv/Finding-Doners-Supervised-Learning/blob/master/finding_donors.html) 
+This is a link to the [HTML version of the notebook](https://htmlpreview.github.io/?https://github.com/claytv/Finding-Doners-Supervised-Learning/blob/master/finding_donors.html) 
 
 Udacity provided instruction for the project as well as a the visuals.py file to assist in visualization.
 
