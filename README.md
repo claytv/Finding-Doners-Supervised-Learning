@@ -1,4 +1,4 @@
-# Finding-Doners-Supervised-Learning
+# Finding Doners with Supervised Learning
 This is the first project of the Udacity Data Scientist Nanodegree. I completed this project in April 2019. 
 
 The analysis can be found in the notebook 'finding_donors.ipynb'.
